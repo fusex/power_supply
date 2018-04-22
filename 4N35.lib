@@ -1,0 +1,62 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 4N35
+#
+DEF 4N35 OK 0 40 Y N 1 L N
+F0 "OK" -275 225 50 H V L BNN
+F1 "4N35" -275 -400 50 H V L BNN
+F2 "DIL06" 0 0 50 H I L BNN
+F3 "None" 0 0 50 H I L BNN
+F4 "General Purpose Phototransistor Optocoupler" 0 0 50 H I L BNN
+F5 "DIP-6 Avago" 0 0 50 H I L BNN
+F6 "Vishay Semiconductor" 0 0 50 H I L BNN
+F7 "Unavailable" 0 0 50 H I L BNN
+F8 "4N35" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 6 0 -100 0 100 N
+P 2 0 0 6 0 100 200 100 N
+P 2 0 0 6 0 -100 40 -100 N
+P 2 0 0 6 -95 -95 -40 -40 N
+P 2 0 0 6 -40 -40 -75 -55 N
+P 2 0 0 6 -75 -55 -55 -75 N
+P 2 0 0 6 -55 -75 -40 -40 N
+P 2 0 0 6 -45 5 -80 -10 N
+P 2 0 0 6 -80 -10 -60 -30 N
+P 2 0 0 6 -60 -30 -45 5 N
+P 2 0 0 6 -100 -50 -45 5 N
+P 2 0 0 10 -125 0 -175 -100 N
+P 2 0 0 10 -175 -100 -225 0 N
+P 2 0 0 10 -125 -100 -175 -100 N
+P 2 0 0 10 -175 -100 -225 -100 N
+P 2 0 0 10 -125 0 -175 0 N
+P 2 0 0 10 -175 0 -175 -100 N
+P 2 0 0 10 -175 0 -225 0 N
+P 2 0 0 16 -275 -300 175 -300 N
+P 2 0 0 16 -275 200 -275 -300 N
+P 2 0 0 16 175 200 175 -300 N
+P 2 0 0 6 -300 100 -175 100 N
+P 2 0 0 6 -175 100 -175 0 N
+P 2 0 0 6 -175 -100 -175 -200 N
+P 2 0 0 6 -175 -200 -300 -200 N
+P 2 0 0 16 -275 200 175 200 N
+P 2 0 0 6 150 0 50 -100 N
+P 2 0 0 6 50 -100 140 -190 N
+P 2 0 0 6 150 -200 200 -200 N
+P 2 0 0 6 150 0 200 0 N
+P 2 0 0 6 120 -140 140 -190 N
+P 2 0 0 6 140 -190 150 -200 N
+P 2 0 0 6 140 -190 90 -170 N
+P 2 0 0 6 90 -170 120 -140 N
+S 35 -200 65 0 0 0 0 F
+X A 1 -400 100 100 R 40 40 0 0 P 
+X C 2 -400 -200 100 R 40 40 0 0 P 
+X BAS 6 300 100 100 L 40 40 0 0 P 
+X EMI 4 300 -200 100 L 40 40 0 0 P 
+X COL 5 300 0 100 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
