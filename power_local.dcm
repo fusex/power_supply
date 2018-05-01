@@ -145,6 +145,21 @@ D power-flag symbol
 K Power Flag Symbol
 $ENDCMP
 #
+$CMP +5E2
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +5E3
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +5E4
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP +5F
 D power-flag symbol
 K Power Flag Symbol
@@ -316,6 +331,12 @@ D power-flag symbol (alternating current)
 K Power Flag Symbol
 $ENDCMP
 #
+$CMP Conn_Battery
+D Battery connector
+K connector
+F ~
+$ENDCMP
+#
 $CMP Earth
 D Ground power flag symbol
 K power pwr gnd ground
@@ -350,6 +371,16 @@ K Power Flag Symbol
 $ENDCMP
 #
 $CMP GNDE1
+D GROUND power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP GNDE2
+D GROUND power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP GNDE3/4
 D GROUND power-flag symbol
 K Power Flag Symbol
 $ENDCMP
@@ -425,6 +456,16 @@ K Power Flag Symbol
 $ENDCMP
 #
 $CMP VBATE1
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VBATE2
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VBATE3/4
 D power-flag symbol
 K Power Flag Symbol
 $ENDCMP

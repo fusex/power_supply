@@ -2731,12 +2731,12 @@
     )
   )
 
-  (module Diodes_THT:D_DO-41_SOD81_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE8E9CE) (tstamp 5AE4C577)
+  (module Diodes_THT:D_DO-41_SOD81_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE62010) (tstamp 5AE4C577)
     (at 151.75076 119.75882 90)
     (descr "D, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "D DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm")
     (path /5ADD002E/5ADD4328)
-    (fp_text reference D7 (at 4.00882 -2.50076 90) (layer F.SilkS)
+    (fp_text reference D7 (at 4 -2.99 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value 1N4007 (at 3.81 2.41 90) (layer F.Fab) hide
@@ -2774,12 +2774,12 @@
     )
   )
 
-  (module Diodes_THT:D_DO-41_SOD81_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE8E9AF) (tstamp 5AE4C571)
+  (module Diodes_THT:D_DO-41_SOD81_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE62007) (tstamp 5AE4C571)
     (at 151.75076 101.25882 90)
     (descr "D, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "D DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm")
     (path /5ADD002E/5ADD0C74)
-    (fp_text reference D6 (at 4.00882 -2.50076 90) (layer F.SilkS)
+    (fp_text reference D6 (at 4 -2.99 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value 1N4007 (at 3.81 2.41 90) (layer F.Fab) hide
@@ -2860,12 +2860,12 @@
     )
   )
 
-  (module Diodes_THT:D_DO-41_SOD81_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE8E9B9) (tstamp 5AE4C565)
+  (module Diodes_THT:D_DO-41_SOD81_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE62001) (tstamp 5AE4C565)
     (at 151.80076 83.25882 90)
     (descr "D, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "D DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm")
     (path /5ADCC182/5ADCCED9)
-    (fp_text reference D4 (at 4.00882 -2.55076 90) (layer F.SilkS)
+    (fp_text reference D4 (at 4 -2.99 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value 1N4007 (at 3.81 2.41 90) (layer F.Fab) hide

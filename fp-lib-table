@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name fuse)(type KiCad)(uri "$(KIPRJMOD)/fuse.pretty")(options "")(descr ""))
+  (lib (name regulator)(type KiCad)(uri "$(KIPRJMOD)/regulator.pretty")(options "")(descr ""))
+  (lib (name wire)(type KiCad)(uri "$(KIPRJMOD)/wire.pretty")(options "")(descr ""))
+)
